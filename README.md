@@ -8,7 +8,6 @@ Hello, I'm Maxmatkulov Mirsaid, a 14-year-old enthusiast fascinated by both the 
 - **Frameworks:** Django, Django Rest Framework
 - **Database:** PostgreSQL
 - **Libraries:** Bootstrap
-- **Other:** ShieldsIO Badges
 
 ## 📱 Contact
 Feel free to reach out to me through various channels:
