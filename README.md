@@ -1,7 +1,7 @@
 # 👋 Mahmatkulov Mirsaid
 
 ## 🌍 About Me
-Hello, I'm Mahmatkulov Mirsaid, a 15-year-old enthusiast fascinated by both the English language and programming. Fluent in English, Russian, Tajik, and Uzbek.
+Hello, I'm Mahmatkulov Mirsaid, a 16-year-old enthusiast fascinated by both the English language and programming. Fluent in English, Russian, Tajik, and Uzbek.
 
 ## 💻 Skills
 - **Languages:** HTML, CSS-SASS(SCSS), JavaScript, React.js, Python
